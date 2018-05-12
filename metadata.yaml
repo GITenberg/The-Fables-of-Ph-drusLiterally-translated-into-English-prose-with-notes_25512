@@ -1,0 +1,42 @@
+_repo: The-Fables-of-Ph-drusLiterally-translated-into-English-prose-with-notes_25512
+_version: 0.1.0
+alternative_title: "The Fables of Phaedrus\r\nLiterally translated into English prose\
+  \ with notes"
+contributor:
+  translators:
+  - agent_name: Smart, Christopher
+    birthdate: 1722
+    deathdate: 1771
+    gutenberg_agent_id: '31382'
+    url: http://www.gutenberg.org/2009/agents/31382
+  - agent_name: Riley, Henry T. (Henry Thomas)
+    alias: Riley, Henry Thomas
+    birthdate: 1816
+    deathdate: 1878
+    gutenberg_agent_id: '8085'
+    url: http://www.gutenberg.org/2009/agents/8085
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phaedrus
+    alias: Caius Julius Phaedrus
+    gutenberg_agent_id: '31383'
+    url: http://www.gutenberg.org/2009/agents/31383
+description: ''
+gutenberg_issued: '2008-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, Latin -- Translations into English'
+- !lcc 'PA'
+title: 'The Fables of Phædrus
+
+  Literally translated into English prose with notes'
+url: http://www.gutenberg.org/ebooks/25512

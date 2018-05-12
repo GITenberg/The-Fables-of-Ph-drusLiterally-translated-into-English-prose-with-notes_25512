@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '31383'
     url: http://www.gutenberg.org/2009/agents/31383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25512#The-Fables-of-Ph-drusLiterally-translated-into-English-prose-with-notes
 gutenberg_issued: '2008-05-18'
 gutenberg_type: Text
 identifiers:
